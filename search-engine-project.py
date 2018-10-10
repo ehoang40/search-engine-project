@@ -288,8 +288,7 @@ def test_for_digits(phrase):
 
 
 def main():
-    if __name__ == '__main__':
-        print(__doc__) #display script info
+    print(__doc__) #display script info
 	
     punctuation = [".", ",",":",";","!","?"]
     stop_words = get_stop_words() #obtain list of stop words 
