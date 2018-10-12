@@ -5,7 +5,7 @@
 """Text Search Engine Project
 
 With this script, a user can run a search query in .txt files and obtain
-the number of times the query .  The user
+the number of times the query appears in each file.  The user
 can either search all .txt files in the directory or specify certain
 files.  The search is keyword-based and is not case sensitive.  The
 search only identifies matches that are contained on one line of the
